@@ -1,0 +1,17 @@
+{
+  "name": "jokesapichrissy",
+  "version": "1.0.0",
+  "description": "api for jokes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jokes"
+  ],
+  "author": "Chrissy Albert <chrissy_albert@yahoo.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
